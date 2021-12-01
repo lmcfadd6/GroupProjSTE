@@ -153,7 +153,7 @@
 </part>
 </structure>
 <environment>
-<fan x="2.5500002" y="2.5500002" width="0.1" height="6.3" speed="-0.01" angle="0.0"/><fan x="5.4" y="2.5" width="0.1" height="6.5" speed="0.01" angle="0.0"/><fan x="8.5" y="2.4" width="0.1" height="6.7000003" speed="-0.01" angle="0.0"/></environment>
+</environment>
 <sensor>
 </sensor>
 <controller>
@@ -172,6 +172,6 @@
 <maximum_temperature>40.0</maximum_temperature>
 <fan_rotation_speed_scale_factor>0.1</fan_rotation_speed_scale_factor><streamline>true</streamline>
 <graph_xlabel>Time (hr)</graph_xlabel><graph_ylabel>Wind speed (m/s)</graph_ylabel><graph_ymin>0.0030656476</graph_ymin><graph_ymax>0.040447913</graph_ymax><clock>false</clock>
-<text string="Three Cell System" face="Arial" size="18" style="1" color="ffffff" x="0.35" y="9.8"/>
+<text string="Original Hadley Cell" face="Arial" size="18" style="1" color="ffffff" x="0.35" y="9.8"/>
 </view>
 </state>
