@@ -1,13 +1,10 @@
-#STE - Luke and Vasyra
-Stratosphere Troposphere exchange
-aeronomy - upper atmosphere
-connections in height and over lat/lon
-basic dynamics of atmosphere
-brewer doxer circulation (that cycle with poles)
-Holton et al. (2000?) Rev. Geophysics
+# Stratosphere-Troposphere Exchange
 
-Deliverables
-presentation, document, software, etc.
+# File Details
+- Simulation files can be found in [src](https://github.com/lmcfadd6/GroupProjSTE/tree/main/Energy2D_Files)
+- Paper references can be found in [References](https://github.com/lmcfadd6/GroupProjSTE/tree/main/References)
+- Contributions.md shows our independant contributions
+- Docs.md shows how to set up the simulation on your own computer
 
-
+# Overleaf
 https://www.overleaf.com/project/6192a80efa2c4cfe682c3c22
