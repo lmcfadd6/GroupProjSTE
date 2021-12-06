@@ -1,1 +1,7 @@
-Go to 	[title](https://energy.concord.org/energy2d/#:~:text=Based%20on%20computational%20physics%2C%20Energy2D,their%20coupling%20with%20particle%20dynamics) and download the installer for Energy2D
+Go to the [Energy2D Website](https://energy.concord.org/energy2d/#:~:text=Based%20on%20computational%20physics%2C%20Energy2D,their%20coupling%20with%20particle%20dynamics) and download the installer for Energy2D. You may try this in your browser, but we have not tested this, so this document will assume you have downloaded the installer.
+
+With the program installed, turn on the Stream Lines (under View) so that it is easier to see the circulations. You may try the pre-packaged example of the Hadley cell. To try our examples, download the files under src/ in this GitHub. The files are .e2d files, which are actually .xml files but with a different extension so Energy2D knows that it can run them. Click on the file and go to "Raw" to view the raw file. right click the raw file and click "Save As". Save the file to your computer, but remove the default extension (if any), and add the extension .e2d. (For operating system specifics, or if this does not work for you, email Luke (lmcfadd6@uwo.ca) and he will help you). 
+
+Once the .e2d file is downloaded, you may open it through Energy2D. This will give the initial conditions for a certain experiment. You can run the experiment using the buttons on the bottom. For instructions on modifying experiments, this is where I would link you to the Energy2D documentation, but unfortunately they haven't finished it [...](https://energy.concord.org/energy2d/manual/index.html). You could try this [forums](https://energy.concord.org/energy2d/forum/)
+
+Good luck!
