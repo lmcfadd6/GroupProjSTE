@@ -153,7 +153,7 @@
 </part>
 </structure>
 <environment>
-<fan x="2.5500002" y="2.5500002" width="0.1" height="6.3" speed="-0.01" angle="0.0"/><fan x="5.4" y="2.5" width="0.1" height="6.5" speed="0.01" angle="0.0"/><fan x="8.5" y="2.4" width="0.1" height="6.7000003" speed="-0.01" angle="0.0"/></environment>
+<fan x="2.55" y="2.5500002" width="0.1" height="6.3" speed="-0.04" angle="0.0"/><fan x="5.4" y="2.5" width="0.1" height="6.5" speed="0.03" angle="0.0"/><fan x="8.5" y="2.4" width="0.1" height="6.7" speed="-0.01" angle="0.0"/></environment>
 <sensor>
 </sensor>
 <controller>
