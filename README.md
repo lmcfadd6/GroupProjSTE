@@ -1,8 +1,9 @@
 # Stratosphere-Troposphere Exchange
 
 # File Details
-- Simulation files can be found in [Energy2D](https://github.com/lmcfadd6/GroupProjSTE/tree/main/Energy2D_Files)
+- Simulation files can be found in [Energy2D_files](https://github.com/lmcfadd6/GroupProjSTE/tree/main/Energy2D_Files)
 - Paper references can be found in [References](https://github.com/lmcfadd6/GroupProjSTE/tree/main/References)
+- Results can be found in [Figures](https://github.com/lmcfadd6/GroupProjSTE/tree/main/Figures)
 - Contributions.md shows our independant contributions
 - Docs.md shows how to set up the simulation on your own computer
 
