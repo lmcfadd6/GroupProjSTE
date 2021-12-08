@@ -8,5 +8,3 @@
 - Contributions.md shows our independant contributions
 - Docs.md shows how to set up the simulation on your own computer
 
-# Overleaf
-https://www.overleaf.com/project/6192a80efa2c4cfe682c3c22
